@@ -1,0 +1,10 @@
+git config --global user.name "WorkShop GIT"
+
+git config --global user.email "igodasilva10@gmail.com"
+
+
+cd ------
+
+git add .
+git commit -m "mesage"
+git push
